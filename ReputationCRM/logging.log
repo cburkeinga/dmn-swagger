@@ -1,0 +1,230 @@
+2017-08-12 17:41:46 INFO  ReputationCRMClient:157 - Lets Do This!
+2017-08-12 17:41:46 INFO  CsvReader:36 - getting file: input.csv
+2017-08-12 17:41:46 INFO  ReputationCRMClient:174 - 43288319
+2017-08-12 17:41:46 INFO  ReputationCRMClient:175 - 42f4f794bd6b6cdf4522b9bab95a04f3
+2017-08-12 17:41:46 ERROR ReputationCRMClient:192 - Missing the required parameter 'companyid' when calling createCustomerAutomatic(Async)
+2017-08-12 17:43:48 INFO  ReputationCRMClient:157 - Lets Do This!
+2017-08-12 17:43:48 INFO  CsvReader:36 - getting file: input.csv
+2017-08-12 17:43:48 INFO  ReputationCRMClient:174 - 43288319
+2017-08-12 17:43:48 INFO  ReputationCRMClient:175 - 42f4f794bd6b6cdf4522b9bab95a04f3
+2017-08-12 17:43:54 INFO  ReputationCRMClient:59 - Create Customer Automatic Test result: ﻿
+2017-08-12 17:43:54 INFO  ReputationCRMClient:189 - ﻿
+2017-08-12 17:47:37 INFO  ReputationCRMClient:162 - Lets Do This!
+2017-08-12 17:47:38 INFO  CsvReader:36 - getting file: input.csv
+2017-08-12 17:47:38 INFO  ReputationCRMClient:171 - 
+2017-08-12 17:47:38 INFO  ReputationCRMClient:172 - 
+2017-08-12 17:47:40 ERROR ReputationCRMClient:196 - Forbidden
+2017-08-12 17:49:35 INFO  ReputationCRMClient:164 - Lets Do This!
+2017-08-12 17:49:35 INFO  CsvReader:36 - getting file: input.csv
+2017-08-12 17:49:35 INFO  ReputationCRMClient:173 - 
+2017-08-12 17:49:35 INFO  ReputationCRMClient:174 - 
+2017-08-12 17:49:35 INFO  ReputationCRMClient:42 - Initializing API with key: null
+2017-08-12 17:49:37 ERROR ReputationCRMClient:198 - Forbidden
+2017-08-12 17:51:42 INFO  ReputationCRMClient:164 - Lets Do This!
+2017-08-12 17:51:42 INFO  CsvReader:36 - getting file: input.csv
+2017-08-12 17:51:42 INFO  ReputationCRMClient:184 - 43288319
+2017-08-12 17:51:42 INFO  ReputationCRMClient:185 - 42f4f794bd6b6cdf4522b9bab95a04f3
+2017-08-12 17:51:42 INFO  ReputationCRMClient:42 - Initializing API with key: 42f4f794bd6b6cdf4522b9bab95a04f3
+2017-08-12 17:51:45 INFO  ReputationCRMClient:66 - Create Customer Automatic Test result: ﻿
+2017-08-12 17:51:45 INFO  ReputationCRMClient:199 - ﻿
+2017-08-14 21:47:45 INFO  ReputationCRMClient:164 - Lets Do This!
+2017-08-14 21:47:45 INFO  CsvReader:36 - getting file: input.csv
+2017-08-14 21:47:45 INFO  ReputationCRMClient:184 - 43288319
+2017-08-14 21:47:45 INFO  ReputationCRMClient:185 - 42f4f794bd6b6cdf4522b9bab95a04f3
+2017-08-14 21:47:45 INFO  ReputationCRMClient:42 - Initializing API with key: 42f4f794bd6b6cdf4522b9bab95a04f3
+2017-08-14 21:47:52 INFO  ReputationCRMClient:66 - Create Customer Automatic Test result: ﻿
+2017-08-14 21:47:52 INFO  ReputationCRMClient:199 - ﻿
+2017-08-15 21:52:15 INFO  ReputationCRMClient:164 - Lets Do This!
+2017-08-15 21:54:55 INFO  ReputationCRMClient:164 - Lets Do This!
+2017-08-15 21:54:55 INFO  CsvReader:36 - getting file: input.csv
+2017-08-15 21:54:55 INFO  ReputationCRMClient:181 - 47585436
+2017-08-15 21:54:55 INFO  ReputationCRMClient:182 - 42f4f794bd6b6cdf4522b9bab95a04f3
+2017-08-15 21:54:55 INFO  ReputationCRMClient:42 - Initializing API with key: 42f4f794bd6b6cdf4522b9bab95a04f3
+2017-08-15 21:54:57 INFO  ReputationCRMClient:66 - Create Customer Automatic Test result: ﻿
+2017-08-15 21:54:57 INFO  ReputationCRMClient:196 - ﻿
+2017-08-15 21:54:57 ERROR ReputationCRMClient:200 - java.lang.IllegalStateException: Expected BEGIN_ARRAY but was BEGIN_OBJECT at line 1 column 2 path $
+2017-08-15 22:05:30 INFO  ReputationCRMClient:164 - Lets Do This!
+2017-08-15 22:05:31 INFO  CsvReader:36 - getting file: input.csv
+2017-08-15 22:05:31 INFO  ReputationCRMClient:181 - 47585436
+2017-08-15 22:05:31 INFO  ReputationCRMClient:182 - 42f4f794bd6b6cdf4522b9bab95a04f3
+2017-08-15 22:05:31 INFO  ReputationCRMClient:42 - Initializing API with key: 42f4f794bd6b6cdf4522b9bab95a04f3
+2017-08-15 22:05:33 INFO  ReputationCRMClient:66 - Create Customer Automatic Test result: ﻿
+2017-08-15 22:05:33 INFO  ReputationCRMClient:196 - ﻿
+2017-08-15 22:13:32 INFO  ReputationCRMClient:164 - Lets Do This!
+2017-08-15 22:13:32 INFO  CsvReader:36 - getting file: input.csv
+2017-08-15 22:13:32 INFO  ReputationCRMClient:181 - 43288319
+2017-08-15 22:13:32 INFO  ReputationCRMClient:182 - 42f4f794bd6b6cdf4522b9bab95a04f3
+2017-08-15 22:13:32 INFO  ReputationCRMClient:42 - Initializing API with key: 42f4f794bd6b6cdf4522b9bab95a04f3
+2017-08-15 22:13:33 INFO  ReputationCRMClient:66 - Create Customer Automatic Test result: ﻿
+2017-08-15 22:13:33 INFO  ReputationCRMClient:196 - ﻿
+2017-08-15 22:17:06 INFO  ReputationCRMClient:164 - Lets Do This!
+2017-08-15 22:17:06 INFO  CsvReader:36 - getting file: input.csv
+2017-08-15 22:17:06 INFO  ReputationCRMClient:181 - 47585436
+2017-08-15 22:17:06 INFO  ReputationCRMClient:182 - 42f4f794bd6b6cdf4522b9bab95a04f3
+2017-08-15 22:17:06 INFO  ReputationCRMClient:42 - Initializing API with key: 42f4f794bd6b6cdf4522b9bab95a04f3
+2017-08-15 22:17:08 INFO  ReputationCRMClient:66 - Create Customer Automatic Test result: ﻿
+2017-08-15 22:17:08 INFO  ReputationCRMClient:196 - ﻿
+2017-08-15 22:22:53 INFO  ReputationCRMClient:165 - Lets Do This!
+2017-08-15 22:22:53 INFO  CsvReader:36 - getting file: input.csv
+2017-08-15 22:22:53 INFO  ReputationCRMClient:182 - 47585436
+2017-08-15 22:22:53 INFO  ReputationCRMClient:183 - 42f4f794bd6b6cdf4522b9bab95a04f3
+2017-08-15 22:22:53 INFO  ReputationCRMClient:42 - Initializing API with key: 42f4f794bd6b6cdf4522b9bab95a04f3
+2017-08-15 22:22:55 INFO  ReputationCRMClient:66 - Create Customer Automatic Test result: ﻿
+2017-08-15 22:22:55 INFO  ReputationCRMClient:197 - ﻿
+2017-08-15 22:22:55 INFO  ReputationCRMClient:216 - End Execution
+2017-08-15 23:02:41 INFO  ReputationCRMClient:166 - Lets Do This!
+2017-08-15 23:02:42 INFO  CsvReader:36 - getting file: input.csv
+2017-08-15 23:02:42 INFO  ReputationCRMClient:183 - 43288319
+2017-08-15 23:02:42 INFO  ReputationCRMClient:184 - 42f4f794bd6b6cdf4522b9bab95a04f3
+2017-08-15 23:02:42 INFO  ReputationCRMClient:42 - Initializing API with key: 42f4f794bd6b6cdf4522b9bab95a04f3
+2017-08-15 23:02:44 INFO  ReputationCRMClient:66 - Create Customer Automatic Test result: ﻿
+2017-08-15 23:02:44 INFO  ReputationCRMClient:198 - ﻿
+2017-08-15 23:02:44 INFO  ReputationCRMClient:86 - Called Get all Customers.. now print
+2017-08-15 23:02:44 INFO  ReputationCRMClient:217 - End Execution
+2017-08-15 23:12:45 INFO  ReputationCRMClient:166 - Lets Do This!
+2017-08-15 23:12:46 INFO  CsvReader:36 - getting file: input.csv
+2017-08-15 23:12:46 INFO  ReputationCRMClient:183 - 43288319
+2017-08-15 23:12:46 INFO  ReputationCRMClient:184 - 42f4f794bd6b6cdf4522b9bab95a04f3
+2017-08-15 23:12:46 INFO  ReputationCRMClient:42 - Initializing API with key: 42f4f794bd6b6cdf4522b9bab95a04f3
+2017-08-15 23:12:47 INFO  ReputationCRMClient:66 - Create Customer Automatic Test result: ﻿
+2017-08-15 23:12:47 INFO  ReputationCRMClient:198 - ﻿
+2017-08-15 23:12:48 INFO  ReputationCRMClient:86 - Called Get all Customers.. now print
+2017-08-15 23:12:48 INFO  ReputationCRMClient:217 - End Execution
+2017-08-15 23:25:12 INFO  ReputationCRMClient:195 - Lets Do This!
+2017-08-15 23:25:13 INFO  CsvReader:36 - getting file: input.csv
+2017-08-15 23:25:13 INFO  ReputationCRMClient:212 - 43288319
+2017-08-15 23:25:13 INFO  ReputationCRMClient:213 - 42f4f794bd6b6cdf4522b9bab95a04f3
+2017-08-15 23:25:13 INFO  ReputationCRMClient:43 - Initializing API with key: 42f4f794bd6b6cdf4522b9bab95a04f3
+2017-08-15 23:25:13 INFO  ReputationCRMClient:248 - End Execution
+2017-08-15 23:26:09 INFO  ReputationCRMClient:195 - Lets Do This!
+2017-08-15 23:26:09 INFO  CsvReader:36 - getting file: input.csv
+2017-08-15 23:26:09 INFO  ReputationCRMClient:212 - 43288319
+2017-08-15 23:26:09 INFO  ReputationCRMClient:213 - 42f4f794bd6b6cdf4522b9bab95a04f3
+2017-08-15 23:26:09 INFO  ReputationCRMClient:43 - Initializing API with key: 42f4f794bd6b6cdf4522b9bab95a04f3
+2017-08-15 23:26:11 INFO  ReputationCRMClient:229 - Called create customer
+2017-08-15 23:26:11 INFO  ReputationCRMClient:115 - Called Get all Customers.. now print
+2017-08-15 23:26:11 INFO  ReputationCRMClient:248 - End Execution
+2017-08-15 23:27:32 INFO  ReputationCRMClient:195 - Lets Do This!
+2017-08-15 23:27:32 INFO  CsvReader:36 - getting file: input.csv
+2017-08-15 23:27:32 INFO  ReputationCRMClient:212 - 43288319
+2017-08-15 23:27:32 INFO  ReputationCRMClient:213 - 42f4f794bd6b6cdf4522b9bab95a04f3
+2017-08-15 23:27:32 INFO  ReputationCRMClient:43 - Initializing API with key: 42f4f794bd6b6cdf4522b9bab95a04f3
+2017-08-15 23:27:33 INFO  ReputationCRMClient:229 - Called create customer
+2017-08-15 23:27:34 INFO  ReputationCRMClient:115 - Called Get all Customers.. now print
+2017-08-15 23:27:34 INFO  ReputationCRMClient:248 - End Execution
+2017-08-16 15:42:19 INFO  ReputationCRMClient:195 - Lets Do This!
+2017-08-16 15:42:19 INFO  CsvReader:36 - getting file: input.csv
+2017-08-16 15:42:19 INFO  ReputationCRMClient:212 - 47585436
+2017-08-16 15:42:19 INFO  ReputationCRMClient:213 - 42f4f794bd6b6cdf4522b9bab95a04f3
+2017-08-16 15:42:19 INFO  ReputationCRMClient:43 - Initializing API with key: 42f4f794bd6b6cdf4522b9bab95a04f3
+2017-08-16 15:42:21 INFO  ReputationCRMClient:67 - Create Customer Automatic Test result: ﻿{"Error":true,"status":"A Company \/ Location ID is required. "}
+2017-08-16 15:42:21 INFO  ReputationCRMClient:228 - ﻿{"Error":true,"status":"A Company \/ Location ID is required. "}
+2017-08-16 15:42:21 INFO  ReputationCRMClient:115 - Called Get all Customers.. now print
+2017-08-16 15:42:21 INFO  ReputationCRMClient:248 - End Execution
+2017-08-16 15:47:31 INFO  ReputationCRMClient:195 - Lets Do This!
+2017-08-16 15:47:31 INFO  CsvReader:36 - getting file: input.csv
+2017-08-16 15:47:31 INFO  ReputationCRMClient:212 - 47585436
+2017-08-16 15:47:31 INFO  ReputationCRMClient:213 - 42f4f794bd6b6cdf4522b9bab95a04f3
+2017-08-16 15:47:31 INFO  ReputationCRMClient:43 - Initializing API with key: 42f4f794bd6b6cdf4522b9bab95a04f3
+2017-08-16 15:47:32 INFO  ReputationCRMClient:67 - Create Customer Automatic Test result: ﻿{"Error":true,"status":"A Company \/ Location ID is required. "}
+2017-08-16 15:47:32 INFO  ReputationCRMClient:232 - ﻿{"Error":true,"status":"A Company \/ Location ID is required. "}
+2017-08-16 15:47:33 INFO  ReputationCRMClient:115 - Called Get all Customers.. now print
+2017-08-16 15:47:33 INFO  ReputationCRMClient:252 - End Execution
+2017-08-16 16:03:25 INFO  ReputationCRMClient:195 - Lets Do This!
+2017-08-16 16:03:25 INFO  CsvReader:36 - getting file: input.csv
+2017-08-16 16:03:25 INFO  ReputationCRMClient:212 - 47585436
+2017-08-16 16:03:25 INFO  ReputationCRMClient:213 - 42f4f794bd6b6cdf4522b9bab95a04f3
+2017-08-16 16:03:25 INFO  ReputationCRMClient:43 - Initializing API with key: 42f4f794bd6b6cdf4522b9bab95a04f3
+2017-08-16 16:03:26 INFO  ReputationCRMClient:67 - Create Customer Automatic Test result: ﻿{"Error":true,"status":"A Company \/ Location ID is required. "}
+2017-08-16 16:03:26 INFO  ReputationCRMClient:232 - ﻿{"Error":true,"status":"A Company \/ Location ID is required. "}
+2017-08-16 16:03:26 INFO  ReputationCRMClient:115 - Called Get all Customers.. now print
+2017-08-16 16:03:26 INFO  ReputationCRMClient:252 - End Execution
+2017-08-17 14:28:12 INFO  ReputationCRMClient:195 - Lets Do This!
+2017-08-17 14:28:12 INFO  CsvReader:36 - getting file: input.csv
+2017-08-17 14:28:12 INFO  ReputationCRMClient:212 - 47585436
+2017-08-17 14:28:12 INFO  ReputationCRMClient:213 - 42f4f794bd6b6cdf4522b9bab95a04f3
+2017-08-17 14:28:12 INFO  ReputationCRMClient:43 - Initializing API with key: 42f4f794bd6b6cdf4522b9bab95a04f3
+2017-08-17 14:28:14 INFO  ReputationCRMClient:67 - Create Customer Automatic Test result: ﻿{"Error":true,"status":"A Company \/ Location ID is required. "}
+2017-08-17 14:28:14 INFO  ReputationCRMClient:232 - ﻿{"Error":true,"status":"A Company \/ Location ID is required. "}
+2017-08-17 14:28:14 INFO  ReputationCRMClient:115 - Called Get all Customers.. now print
+2017-08-17 14:28:14 INFO  ReputationCRMClient:252 - End Execution
+2017-08-17 14:28:57 INFO  ReputationCRMClient:195 - Lets Do This!
+2017-08-17 14:28:57 INFO  CsvReader:36 - getting file: input.csv
+2017-08-17 14:28:57 INFO  ReputationCRMClient:212 - 43288319
+2017-08-17 14:28:57 INFO  ReputationCRMClient:213 - 42f4f794bd6b6cdf4522b9bab95a04f3
+2017-08-17 14:28:57 INFO  ReputationCRMClient:43 - Initializing API with key: 42f4f794bd6b6cdf4522b9bab95a04f3
+2017-08-17 14:28:58 INFO  ReputationCRMClient:67 - Create Customer Automatic Test result: ﻿{"Error":true,"status":"A Company \/ Location ID is required. "}
+2017-08-17 14:28:58 INFO  ReputationCRMClient:232 - ﻿{"Error":true,"status":"A Company \/ Location ID is required. "}
+2017-08-17 14:28:58 INFO  ReputationCRMClient:115 - Called Get all Customers.. now print
+2017-08-17 14:28:58 INFO  ReputationCRMClient:252 - End Execution
+2017-08-17 14:29:21 INFO  ReputationCRMClient:195 - Lets Do This!
+2017-08-17 14:29:21 INFO  CsvReader:36 - getting file: input.csv
+2017-08-17 14:29:21 INFO  ReputationCRMClient:212 - 47585436
+2017-08-17 14:29:21 INFO  ReputationCRMClient:213 - 42f4f794bd6b6cdf4522b9bab95a04f3
+2017-08-17 14:29:21 INFO  ReputationCRMClient:43 - Initializing API with key: 42f4f794bd6b6cdf4522b9bab95a04f3
+2017-08-17 14:29:22 INFO  ReputationCRMClient:67 - Create Customer Automatic Test result: ﻿{"Error":true,"status":"A Company \/ Location ID is required. "}
+2017-08-17 14:29:22 INFO  ReputationCRMClient:232 - ﻿{"Error":true,"status":"A Company \/ Location ID is required. "}
+2017-08-17 14:29:23 INFO  ReputationCRMClient:115 - Called Get all Customers.. now print
+2017-08-17 14:29:23 INFO  ReputationCRMClient:252 - End Execution
+2017-08-17 15:53:32 INFO  ReputationCRMClient:215 - Lets Do This!
+2017-08-17 15:53:33 INFO  CsvReader:36 - getting file: input.csv
+2017-08-17 15:53:33 INFO  ReputationCRMClient:232 - 47585436
+2017-08-17 15:53:33 INFO  ReputationCRMClient:233 - 42f4f794bd6b6cdf4522b9bab95a04f3
+2017-08-17 15:53:33 INFO  ReputationCRMClient:43 - Initializing API with key: 42f4f794bd6b6cdf4522b9bab95a04f3
+2017-08-17 15:53:37 INFO  ReputationCRMClient:135 - Called Get all Customers.. now print
+2017-08-17 15:53:37 INFO  ReputationCRMClient:273 - End Execution
+2017-08-17 15:54:20 INFO  ReputationCRMClient:215 - Lets Do This!
+2017-08-17 15:54:20 INFO  CsvReader:36 - getting file: input.csv
+2017-08-17 15:54:20 INFO  ReputationCRMClient:232 - 47585436
+2017-08-17 15:54:20 INFO  ReputationCRMClient:233 - 42f4f794bd6b6cdf4522b9bab95a04f3
+2017-08-17 15:54:20 INFO  ReputationCRMClient:43 - Initializing API with key: 42f4f794bd6b6cdf4522b9bab95a04f3
+2017-08-17 15:54:23 INFO  ReputationCRMClient:135 - Called Get all Customers.. now print
+2017-08-17 15:54:23 INFO  ReputationCRMClient:273 - End Execution
+2017-08-17 15:55:37 INFO  ReputationCRMClient:216 - Lets Do This!
+2017-08-17 15:55:38 INFO  CsvReader:36 - getting file: input.csv
+2017-08-17 15:55:38 INFO  ReputationCRMClient:233 - 47585436
+2017-08-17 15:55:38 INFO  ReputationCRMClient:234 - 42f4f794bd6b6cdf4522b9bab95a04f3
+2017-08-17 15:55:38 INFO  ReputationCRMClient:43 - Initializing API with key: 42f4f794bd6b6cdf4522b9bab95a04f3
+2017-08-17 15:55:41 INFO  ReputationCRMClient:135 - Called Get all Customers.. now print
+2017-08-17 15:55:41 INFO  ReputationCRMClient:274 - End Execution
+2017-08-17 15:56:12 INFO  ReputationCRMClient:216 - Lets Do This!
+2017-08-17 15:56:13 INFO  CsvReader:36 - getting file: input.csv
+2017-08-17 15:56:13 INFO  ReputationCRMClient:233 - 47585436
+2017-08-17 15:56:13 INFO  ReputationCRMClient:234 - 42f4f794bd6b6cdf4522b9bab95a04f3
+2017-08-17 15:56:13 INFO  ReputationCRMClient:43 - Initializing API with key: 42f4f794bd6b6cdf4522b9bab95a04f3
+2017-08-17 15:56:17 INFO  ReputationCRMClient:135 - Called Get all Customers.. now print
+2017-08-17 15:56:17 INFO  ReputationCRMClient:274 - End Execution
+2017-08-17 15:57:48 INFO  ReputationCRMClient:216 - Lets Do This!
+2017-08-17 15:57:49 INFO  CsvReader:36 - getting file: input.csv
+2017-08-17 15:57:49 INFO  ReputationCRMClient:233 - 47585436
+2017-08-17 15:57:49 INFO  ReputationCRMClient:234 - 42f4f794bd6b6cdf4522b9bab95a04f3
+2017-08-17 15:57:49 INFO  ReputationCRMClient:43 - Initializing API with key: 42f4f794bd6b6cdf4522b9bab95a04f3
+2017-08-17 15:57:52 INFO  ReputationCRMClient:135 - Called Get all Customers.. now print
+2017-08-17 15:57:52 INFO  ReputationCRMClient:275 - End Execution
+2017-08-17 15:58:39 INFO  ReputationCRMClient:216 - Lets Do This!
+2017-08-17 15:58:40 INFO  CsvReader:36 - getting file: input.csv
+2017-08-17 15:58:40 INFO  ReputationCRMClient:233 - 47585436
+2017-08-17 15:58:40 INFO  ReputationCRMClient:234 - 42f4f794bd6b6cdf4522b9bab95a04f3
+2017-08-17 15:58:40 INFO  ReputationCRMClient:43 - Initializing API with key: 42f4f794bd6b6cdf4522b9bab95a04f3
+2017-08-17 15:58:43 INFO  ReputationCRMClient:87 - Create Customer Automatic Test result: ﻿{"Error":true,"status":"A Company \/ Location ID is required. "}
+2017-08-17 15:58:43 INFO  ReputationCRMClient:256 - ﻿{"Error":true,"status":"A Company \/ Location ID is required. "}
+2017-08-17 15:58:43 INFO  ReputationCRMClient:135 - Called Get all Customers.. now print
+2017-08-17 15:58:43 INFO  ReputationCRMClient:276 - End Execution
+2017-08-21 19:19:20 INFO  ReputationCRMClient:216 - Lets Do This!
+2017-08-21 19:19:20 INFO  CsvReader:36 - getting file: input.csv
+2017-08-21 19:19:20 INFO  ReputationCRMClient:233 - 47585436
+2017-08-21 19:19:20 INFO  ReputationCRMClient:234 - 42f4f794bd6b6cdf4522b9bab95a04f3
+2017-08-21 19:19:20 INFO  ReputationCRMClient:43 - Initializing API with key: 42f4f794bd6b6cdf4522b9bab95a04f3
+2017-08-21 19:19:26 INFO  ReputationCRMClient:87 - Create Customer Automatic Test result: ﻿{"Error":true,"status":"A Company \/ Location ID is required. "}
+2017-08-21 19:19:26 INFO  ReputationCRMClient:256 - ﻿{"Error":true,"status":"A Company \/ Location ID is required. "}
+2017-08-21 19:19:26 INFO  ReputationCRMClient:135 - Called Get all Customers.. now print
+2017-08-21 19:19:26 INFO  ReputationCRMClient:276 - End Execution
+2017-08-21 20:25:28 INFO  ReputationCRMClient:216 - Lets Do This!
+2017-08-21 20:25:29 INFO  CsvReader:36 - getting file: input.csv
+2017-08-21 20:25:29 INFO  ReputationCRMClient:233 - 47585436
+2017-08-21 20:25:29 INFO  ReputationCRMClient:234 - 42f4f794bd6b6cdf4522b9bab95a04f3
+2017-08-21 20:25:29 INFO  ReputationCRMClient:43 - Initializing API with key: 42f4f794bd6b6cdf4522b9bab95a04f3
+2017-08-21 20:25:32 INFO  ReputationCRMClient:87 - Create Customer Automatic Test result: ﻿{"customerid":48471,"emailqueueid":"92037, 92038, 92039","smsqueueid":"92040, 92041"}
+2017-08-21 20:25:32 INFO  ReputationCRMClient:256 - ﻿{"customerid":48471,"emailqueueid":"92037, 92038, 92039","smsqueueid":"92040, 92041"}
+2017-08-21 20:25:32 INFO  ReputationCRMClient:135 - Called Get all Customers.. now print
+2017-08-21 20:25:32 INFO  ReputationCRMClient:276 - End Execution
